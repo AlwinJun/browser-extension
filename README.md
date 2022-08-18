@@ -12,5 +12,5 @@
 - Browse where did you save your unzip file and click this folder
 - Once it show up, turn it on
 - Then at the top right og your browser e.g chrome click the puzzle icon.The click the lead tracker
-  <img src="Untitled.png"  width="300px" height="200px">
+  <img src="Untitled.png"  width="700px" height="300px">
 
