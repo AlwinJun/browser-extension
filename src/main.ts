@@ -1,3 +1,5 @@
+import './style.css';
+
 //Declare variables
 let myLeads = [];
 const inputEl = document.getElementById('input-el');
